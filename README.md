@@ -3,5 +3,4 @@ My name is Kareem, and I was born in Syria. Ever since my brother showed me Pyth
 
 I hope you all have a great time.
 
-Sincerely,
-  Kareem
+Sincerely,  Kareem
